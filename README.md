@@ -6,7 +6,6 @@ Github Link : https://github.com/Ricobyter/BMI-Calculator.git
 
 How the App looks : 
 
-![Screenshot 2023-08-28 124533](https://github.com/Ricobyter/BMI-Calculator/assets/133672383/af06718e-5816-4fe6-9dfd-0224e12a6a2a)
+![Screenshot 2023-08-29 004802](https://github.com/Ricobyter/BMI-Calculator/assets/133672383/ae8ac5a2-7852-43fc-90b8-2621cc0885d2)
 
-![Screenshot 2023-08-28 124555](https://github.com/Ricobyter/BMI-Calculator/assets/133672383/002cfba5-5046-41cb-8337-f3d90c6ec385)
-
+![Screenshot 2023-08-29 004824](https://github.com/Ricobyter/BMI-Calculator/assets/133672383/7b08b3fe-13db-4351-a77d-12e19ecc3081)
