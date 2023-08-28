@@ -85,3 +85,31 @@ body{
     
 }
 
+@media only screen and (max-width: 1000px) {
+   .container{
+width: 70vw;
+   }
+
+   .h1{
+    font-size: 30px;
+   }
+
+   .entries, .submits{
+    font-size: 30px;
+   }
+
+   .submits{
+    margin-top: 30px;
+   }
+   .results{
+    font-size: 30px;
+   }
+
+
+  }
+
+  @media only screen and (max-width: 650px) {
+.results,.submits, .entries{
+    font-size: 15px;
+}
+  }
