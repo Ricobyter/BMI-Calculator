@@ -7,17 +7,17 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 class="h1">BMI Calculator</h1>
-    <div class="container">
+       <div class="container">
+        <h1 class="h1">Body Mass Index Calculator</h1>
         
         <div class="entries">
             <!-- <label for="weight">Weight(in kgs)</label> -->
-            <input id="weight" type="numbers" placeholder="Weight(in kgs)">
+            <input id="weight" type="numbers" placeholder="Weight(in kgs)" class="entry">
             
-            <input id="height" type="numbers" placeholder="Height(in cms)">
+            <input id="height" type="numbers" placeholder="Height(in cms)" class="entry">
         
             
-            <span><button onclick='calculateBMI()' class="submits">Submit</button>
+            <span><button onclick='calculateBMI()' class="submits">Calculate</button>
                 <button onclick='reload()' class="submits">Clear</button></span>
             
         </div>
